@@ -1,5 +1,7 @@
 # Administrative Regions of Berlin / Lebensweltlich Orientierte Räume (LOR)
 
+[![CC BY 3.0 DE](https://i.creativecommons.org/l/by/3.0/de/80x15.png)](https://creativecommons.org/licenses/by/3.0/de/)
+
 The geo- and topojson files in this repository contain the geometries of Berlin's administrative regions on different levels of fidelity. These areas are commonly referred to when working with other data provided by the Berlin government. The amount of shapes in each file is as follows:
 
 ```
