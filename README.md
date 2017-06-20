@@ -6,7 +6,7 @@ The geo- and topojson files in this repository contain the geometries of Berlin'
 
 ```
 449 berlin-lor.planungsraeume.geojson
-140 berlin-lor.bezriksregionen.geojson
+140 berlin-lor.bezirksregionen.geojson
  62 berlin-lor.prognoseraeume.geojson
 ```
 
